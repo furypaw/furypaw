@@ -60,3 +60,5 @@ Funding="0x000...dead"
 [🕳️ Dark Forest](https://en.wikipedia.org/wiki/The_Dark_Forest)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=furypaw)

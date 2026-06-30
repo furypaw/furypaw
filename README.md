@@ -8,10 +8,11 @@
 
 ### 🛠️ Stack Overflow Summoner
 
-- 🖼️ `next.js` • 🎨 `tailwind` • 🪐 `wagmi` • 🧪 `viem`
-- 🐍 `solidity` • 🦀 `rust` • 🧠 `typescript`
-- 🎯 `foundry` • ⚓ `anchor` • 🔁 `ethers.js`
-- 🧱 `defi`, `nft`, `dao`
+- 🧠 `typescript` • ⚛️ `react` • ▲ `next.js` • 🎨 `tailwindcss`
+- 🔧 `node.js` • 🚀 `express` • 🗄️ `postgresql` • ⚡ `prisma`
+- ☁️ `aws` • 🐳 `docker` • 🔌 `rest apis` • 📡 `graphql`
+- 🧪 `jest` • 🧹 `eslint` • ⚙️ `ci/cd`
+- 🪐 `solidity` • `ethers.js` • `wagmi` • `viem` • `foundry` • `anchor`
 
 ---
 

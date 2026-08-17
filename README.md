@@ -1,6 +1,6 @@
 # 🐾 furypaw | Senior Fullstack Developer
 
-![Banner](https://github.com/furypaw/furypaw/blob/main/banner.png)
+![Banner](https://github.com/furypaw/furypaw/blob/main/501ecd6d-9835-4834-8379-e9964ef5db5a.png)
 
 > `echo "deploying chaos..." && git push origin main`
 
